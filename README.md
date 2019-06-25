@@ -8,7 +8,7 @@ __Usage:__
 $ git clone https://github.com/Drozerah/blotter-test.git
 ```
 
-Then run `ìndex.html` with http server
+Then run `ìndex.html` with your local development server...
 
 __Link:__
 
